@@ -1,0 +1,66 @@
+good==that which is morally right==acceptable==bad
+competence==capability==ability==dullness
+ruse==trick==deception==honesty
+simpleton==fool==buffoon==brain
+clannish==exclusive==selected==welcoming
+satanic==demonic==cruel==good
+titular==having a litle==nominal==actual
+speckle==dotted==mottled==plain
+befoul==contaminate==dirty==cleans
+flurry==commotion==turmoil==calm
+quandary==delicate situation==dilemma==advantage
+proclivity==inclination==predilection==antipathy
+quisling==traitor==collaborator==loyalist
+plebian==native==local==uncommon
+opulence==wealth==affluecce==death
+obviate==counteract==preclude==antonyms
+overt==obvious==apparent==uncertain
+meddlesome==interfering==intrusive==avoiding
+mincing==affective==daintly==unaffected
+lavish==wasteful==extravagent==mean
+laconic==brief==short==wordy
+mammoth==huge==enormous==little
+menace==danger==threat==safety
+manifest==clear==palpable==unclear
+modicum==smallamount==ounce==lot
+raze==destroy completely==demolish==build
+rapt==fully attentive==elated==doleful
+perpetuate==maintain==preserve==cease
+malignant==deadly==mortal==harmless
+denigrate==besmirch==defame==laud
+dauntless==bold==brave==fearful
+decorum==grace==dignity==levity
+detriment==damage==harm==profit
+dreary==cheerless==dark==pleasant
+grotesque==ugly==odd==natural
+glide==pass==go by==stop
+gingerly==carefully==cautiously==timidly
+teem==overflow==full==need
+chunky==chubby==stocky==thin
+astound==amaze==astonish==calm
+exalted==praised==elevated==debased
+abandon==cease to support or look after==deser==adopt
+smear==to make something blurred==smudge==clean
+appal==horrify==alarm==comfort
+rankle==annoy==bother==aid
+recidivism==lapse==backsliding==ascent
+apposite==apt==appropriate==inapt
+jumble==distrub==disorder==arrange
+quip==a clever remark==banter==praise
+qualms==feeling of doubt==anxiety==calm
+stagger=walk falteringly==careen==continue
+hasping==fasten&&grap@@loose
+undertone==mumble&&murmur@@overtone
+varnish==embellish&&cover@@reveal
+tepid==mid&&warm@@keen
+tout==laud&&promote@@discourage
+vestige==sign&&indication@@lot
+feud==major arguement&&dispute@@accord
+fluster==upset&&agitation@@peace
+featly==allegiance&&loyality@@disloyality
+broach==bring up a topic&&moot@@close
+coy==bashful&&timid@@forward
+concoct==formulate&&creat@@destroy
+
+
+
